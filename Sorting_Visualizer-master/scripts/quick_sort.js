@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:- Vishal Kumar Singh
     
     *****************
 */
@@ -82,7 +82,7 @@ function quick_sort (start, end )
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:- Vishal Kumar Singh
     
     *****************
 */
